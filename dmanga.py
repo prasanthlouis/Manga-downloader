@@ -1,3 +1,4 @@
+#Feel free to download, modify and distribute
 import os
 import urllib
 import urllib2
