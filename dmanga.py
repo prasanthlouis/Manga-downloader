@@ -1,4 +1,13 @@
-#Feel free to download, modify and distribute
+#-------------------------------------------------------------------------------
+# Name		: Manga-downloader
+# Purpose	:To download your favorite manga
+#
+# Authors	: Prasanth Louis
+#Edited by      : 
+# Created	:
+# Copyright	: 
+# Licence	: GPL v3
+#-------------------------------------------------------------------------------
 import os
 import urllib
 import urllib2
