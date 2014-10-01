@@ -21,3 +21,5 @@ My first approach was through selenium, but it proved to me more difficiult due 
 Please don't use this for any other site. The script is optimized for mangahit.com
 
 I'll be sure to come back and update this program for a better experience/functionality.
+
+If you have any doubts, mail me at prasanthlouis21@gmail.com
