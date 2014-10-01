@@ -18,7 +18,7 @@ chapter=raw_input("Enter chapter number")
 chapter=int(chapter)
 x=1
 z=0
-for y in range(0,20):
+for y in range(0,50):
 	url = "http://mangahit.com/"+name+"/"+str(chapter)+"/"+str(x)
 	html = urllib2.urlopen(url)
 	data=html.read()
@@ -33,3 +33,4 @@ for y in range(0,20):
 	print("Downloaded page"+str(x))	
 	x=x+1
 	z=0
+print("Completed downloading! Have fun reading!");
