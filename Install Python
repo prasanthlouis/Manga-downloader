@@ -1,0 +1,15 @@
+If you don't know how to install python do the following
+
+Right Click on My Computer and hit Properties
+On the advanced tab, you'll find environment variables
+
+Click on new under system variables and set variable name to 'PythonPath'
+Then give the variable value as C:\PythonXX; where XX is your version of python. Simply give the path of where you installed python.
+
+Now search for the path system variable.
+Now add C:\Python27\Scripts\ to the end of the variable value by separating it from the other paths with a semi colon.
+
+Now you can click okay and exit.
+
+To run a python script, open your command prompt where your python file exists and simply type python (name of file).py
+And you're ready to go!
