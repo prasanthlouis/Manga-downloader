@@ -1,0 +1,5 @@
+You'll need pip to install this. If you don't have pip, check out the Install pip file that i've uploaded.
+
+Within your scripts file in the python folder you'll find an easy_install file.
+
+Simply type 'easy_install beautfiulsoup4' in cmd (you must navigate to the easy_install file) and just wait for it to download and install.
